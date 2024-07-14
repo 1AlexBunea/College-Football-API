@@ -54,5 +54,8 @@ This tool can be particularly useful for sports analysts, fantasy football enthu
 2. Enter the player's name and the year of interest in the provided fields.
 3. Click the submit button to retrieve and display the player's information.
 
-
+## 🙏 Acknowledgements
+- NFL v5 Sportradar US API for providing the player data
+- React and TypeScript communities for their excellent documentation and resources
+- Flask and Python communities for the robust backend development ecosystem
 
