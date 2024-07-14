@@ -47,7 +47,7 @@ This tool can be particularly useful for sports analysts, fantasy football enthu
 5. Start the Flask server:
 ## Usage
 
-1. Open your web browser and go to `http://localhost:3000` (or the port where your React app is running).
+1. Open your web browser and go to `http://localhost:5173` (or the port where your React app is running).
 2. Enter the player's name and the year of interest in the provided fields.
 3. Click the submit button to retrieve and display the player's information.
 
