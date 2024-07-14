@@ -51,14 +51,6 @@ This tool can be particularly useful for sports analysts, fantasy football enthu
 2. Enter the player's name and the year of interest in the provided fields.
 3. Click the submit button to retrieve and display the player's information.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - NFL v5 Sportradar US API for providing the player data
