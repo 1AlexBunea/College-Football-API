@@ -23,11 +23,6 @@ This tool can be particularly useful for sports analysts, fantasy football enthu
 
 ## 🚀 Installation
 
-### Prerequisites
-- Node.js and npm (for the frontend)
-- Python 3.x (for the backend)
-- NFL v5 Sportradar US API key
-
 ### Frontend Setup
 1. Clone the repository:
 2. Install dependencies:
